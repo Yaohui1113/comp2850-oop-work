@@ -1,0 +1,4 @@
+var myVariable = 10
+println(myVariable)
+myVariable = 20
+println(myVariable)
